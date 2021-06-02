@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portal/static/css/main.30b92064.chunk.css",
+    "main.js": "/react-portal/static/js/main.aa30eafc.chunk.js",
+    "main.js.map": "/react-portal/static/js/main.aa30eafc.chunk.js.map",
+    "runtime-main.js": "/react-portal/static/js/runtime-main.3c24db95.js",
+    "runtime-main.js.map": "/react-portal/static/js/runtime-main.3c24db95.js.map",
+    "static/js/2.c9d040db.chunk.js": "/react-portal/static/js/2.c9d040db.chunk.js",
+    "static/js/2.c9d040db.chunk.js.map": "/react-portal/static/js/2.c9d040db.chunk.js.map",
+    "static/js/3.8e9b5551.chunk.js": "/react-portal/static/js/3.8e9b5551.chunk.js",
+    "static/js/3.8e9b5551.chunk.js.map": "/react-portal/static/js/3.8e9b5551.chunk.js.map",
+    "index.html": "/react-portal/index.html",
+    "static/css/main.30b92064.chunk.css.map": "/react-portal/static/css/main.30b92064.chunk.css.map",
+    "static/js/2.c9d040db.chunk.js.LICENSE.txt": "/react-portal/static/js/2.c9d040db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c24db95.js",
+    "static/js/2.c9d040db.chunk.js",
+    "static/css/main.30b92064.chunk.css",
+    "static/js/main.aa30eafc.chunk.js"
+  ]
+}
